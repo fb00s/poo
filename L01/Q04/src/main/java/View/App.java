@@ -35,14 +35,14 @@ public class App {
         
         System.out.println("---------------------------");
         
-        for(Pessoa p : listaPessoas){
-            System.out.println("Nome: " + p.nome);
+        for(int i = numPessoas - 1; i >= 0; i--){
+            System.out.println("Nome: " + listaPessoas[i].nome);
             
-            System.out.println("Altura: " + p.altura);
+            System.out.println("Altura: " + listaPessoas[i].altura);
             
-            System.out.println("Peso: " + p.peso);
+            System.out.println("Peso: " + listaPessoas[i].peso);
             
-            System.out.println("IMC: " + p.calcularImc());
+            System.out.println("IMC: " + listaPessoas[i].calcularImc());
             
             System.out.println("---------------------------");
         }
