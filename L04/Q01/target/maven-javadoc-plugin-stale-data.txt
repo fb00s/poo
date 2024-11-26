@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/Felipe Boos/Documents/NetBeansProjects/L04/Q01/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Felipe Boos/Documents/NetBeansProjects/L04/Q01/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Q01 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Q01 1.0-SNAPSHOT API'
+Model
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\src\main\java = 1732562376033
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\allclasses-index.html = 1732622652846
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\allpackages-index.html = 1732622652848
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\element-list = 1732622652779
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\help-doc.html = 1732622652922
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\index-all.html = 1732622652886
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\index.html = 1732622652904
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\member-search-index.js = 1732622652861
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\module-search-index.js = 1732622652853
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\overview-tree.html = 1732622652827
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\package-search-index.js = 1732622652855
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\search.html = 1732622652896
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\tag-search-index.js = 1732622652864
+C:\Users\Felipe Boos\Documents\NetBeansProjects\L04\Q01\target\reports\apidocs\type-search-index.js = 1732622652858
